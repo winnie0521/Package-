@@ -1,4 +1,4 @@
-# Package- test 
+# Summary table of existing packages
 ## trying to pull
 
 |              | FASTQC  | seqTools |Shortread|FastQCR|
@@ -15,7 +15,7 @@
 |per  sequence GC content|yes|yes | | yes|
 |per base N content|yes|yes | |yes|
 |sequence length distribution|yes| | |yes|
-|Sequence duplication levels|yes| |yes |yes|
+|Sequence duplication levels|yes| |yes(can identify)|yes|
 |Overrepresented sequence|yes| | |yes|
 |Adapter content|yes| | |yes|
 |K-mer content|yes|yes | |yes|
@@ -24,3 +24,4 @@
 |Positoin wise phred counts|no| yes| | |
 |Distribution of phred values| no| yes| | |
 |identify low-quality read|yes | |yes | |
+|Find near matches to short sequence| | |yes | |
