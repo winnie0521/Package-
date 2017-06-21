@@ -1,6 +1,4 @@
 # Summary table of existing packages
-## trying to pull
-
 |              | [FASTQC](https://www.bioinformatics.babraham.ac.uk/projects/fastqc/) | seqTools |Shortread|[FastQCR](https://cran.r-project.org/web/packages/fastqcr/index.html)|[fastqp](https://github.com/mdshw5/fastqp)|
 | :---         | :---:    |  :---:  | :---:  |:---:|:---:|
 |Encoding type | yes  | no    |  yes    | yes||
