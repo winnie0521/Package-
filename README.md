@@ -5,7 +5,7 @@
 |Total read(sequence)|yes|yes|yes|yes||
 |sequence length    |yes|yes|yes|yes||
 |%GC                      |yes||   |yes||
-|per base sequence quality|yes|yes | |yes|yes|
+|per base sequence quality|yes| | |yes|yes|
 |per tile sequence quality|yes| | | ||
 |per sequence quality|yes| yes | |yes||
 |per base sequence content|yes|yes | |yes|yes|
